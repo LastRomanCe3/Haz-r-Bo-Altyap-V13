@@ -1,0 +1,20 @@
+{
+  "name": "pink-development",
+  "version": "3.0.0",
+  "description": "Boş Altyapı Hazır V13",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "LastRomanCE",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "jimp": "^0.16.1",
+    "nrc.db": "^2.1.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
